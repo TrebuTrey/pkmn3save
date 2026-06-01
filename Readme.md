@@ -13,7 +13,7 @@ PRs welcome to add missing functionality.
 ## Install
 
 ```
-pip install git+https://github.com/pmdevita/pkmn3save
+pip install git+https://github.com/TrebuTrey/pkmn3save
 ```
 
 ## Usage
